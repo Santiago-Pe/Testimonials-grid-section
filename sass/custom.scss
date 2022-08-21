@@ -1,0 +1,17 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Tipography
+$font-family-sans-serif:  'Heebo', sans-serif;
+
+// Colors
+$primary:#733FC8;
+$success: #49556B;
+$dark: #18202D;
+$secondary: #EDF2F8;
+
+
+@media (min-width: 992px) { 
+    .alto100{
+        height: 100vh;
+    }
+ }
